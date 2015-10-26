@@ -1,1 +1,2 @@
 print ("Hello world")
+print ("Heiio everyone! Have a good day!")
