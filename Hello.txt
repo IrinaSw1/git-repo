@@ -1,3 +1,4 @@
 print ("Hello world")
 print ("Heiio everyone! Have a good day!")
 print ("Hi")
+print ("Hello my dear friend!")
